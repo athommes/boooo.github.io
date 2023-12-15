@@ -1,0 +1,128 @@
+#title{
+  background-color:#91599fe2;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+h1 {
+  font-family: 'Alegreya Sans SC';
+  font-weight: bold;
+  font-size: 5rem;
+  line-height: 1.5;
+  color: #FFFFF0; 
+}
+h2 {
+  color: #300053e3;
+  font-family: 'Alegreya Sans SC';
+  font-weight: bold;
+}
+h3 {
+  color: #FFFFF0;
+  font-family: 'Alegreya Sans SC';
+  font-weight: bold;
+}
+h4 {
+  font-family:  'Alegreya Sans';
+  font-weight: bold;
+  color: #FFFFF0;
+}
+h5 {
+  font-family:  'Alegreya Sans';
+  font-weight: bold;
+  color: #300053e3;
+}
+p {
+  color: #242424e2;
+  font-family:  'Alegreya Sans';
+  font-size:large;
+}
+/*navbar*/
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand{
+  font-family: 'Alegreya Sans SC';
+  font-size: 2rem;
+  font-weight: bold;
+  
+}
+.navbar-item {
+  padding: 0 18px;
+  font-family: 'Alegreya Sans SC';
+  font-size: 1.5rem;
+  color:#FFFFF0;
+}
+.navbar-link{
+  font-family: 'Alegreya Sans';
+  font-size: 1.2rem;
+  
+}
+/*Buttons*/
+.download-button {
+  margin: 5% 3% 5% 0;
+  font-family: 'Alegreya Sans';
+  background-color: #FFFFF0;
+  color:#FFFFF0;
+  border-color: #FFFFF0;
+}
+/*title image*/
+.title-image {
+  width: 90%;
+
+  border-radius: 90%;
+}
+
+
+/*about me*/
+#aboutme {
+  text-align: center;
+  padding: 3% 5%;
+  background-color: #FFFFF0;
+}
+.aboutme-text {
+  margin-top: 7%;
+}
+.lajolla-image {
+  width: 70%;
+}
+
+/* testimonials */
+#testimonials {
+  text-align: center;
+  background-color:#300053e3;
+  padding: 3% 5%;
+}
+.testimonial-image {
+  width: 30%;
+  
+  margin: 10px;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+/*CTA*/
+#cta {
+  background-color: #FFFFF0;
+  color: black;
+  padding: 7% 15%;
+  text-align: center;
+}
+.cta-heading {
+  font-family: 'Alegreya Sans';
+  font-weight: bold;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.email-button {
+  background-color: #300053e3;
+  color:#FFFFF0;
+  margin: 5% 3% 5% 0;
+  font-family: 'Alegreya Sans';
+  
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #FFFFF0;
+}
